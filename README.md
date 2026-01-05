@@ -1,2 +1,1 @@
-test
-deployed 
+only test repo 
